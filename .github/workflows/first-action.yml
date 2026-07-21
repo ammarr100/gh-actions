@@ -11,5 +11,5 @@ jobs: # reserved word
       - name: Print greeting
         run: echo "welcome to github actions"
       - name: 
-        run: echp "Done - bye"
+        run: echo "Done - bye"
 
